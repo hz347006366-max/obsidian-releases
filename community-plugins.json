@@ -60632,5 +60632,13 @@
     "author": "siulved54",
     "description": "Search the web for selected text or the note title from the right-click menu, with engines you define. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "perezamadorluisenrique-gif/web-search-menu"
+  },
+  {
+    "id": "hz-workbench",
+    "name": "HZ Workbench",
+    "author": "hz347006366-max",
+    "description": "Personal workbench with flexible layout, quick commands and mobile touch gestures",
+    "repo": "hz347006366-max/hz-workbench"
   }
+
 ]
